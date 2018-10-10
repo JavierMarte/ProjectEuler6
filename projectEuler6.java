@@ -1,4 +1,4 @@
-package googleInterview;
+
 
 public class projectEuler6 {
 
